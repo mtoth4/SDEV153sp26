@@ -1,8 +1,10 @@
 body { 
-      background-color: #FFFFFF; 
+      background-color: #90C7E3; 
        color: #666666;
        font-family: Arial, Verdana, sans-serif;
- }
+       background-repeat: no-repeat;
+	   background-image: linear-gradient(to bottom, #FFFFFF, #90C7E3);
+}
  header { 
       background-color: #002171; 
      color: #FFFFFF; 
@@ -33,8 +35,3 @@ footer {
       font-style: italic;
 }
 
-#Wrapper {
-      width: 80%;
-      margin-right: auto;
-      margin-left: auto;
-}
