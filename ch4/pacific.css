@@ -1,9 +1,28 @@
+* { box-sizing: border-box;}
+Table {
+      border-collapse: collapse;
+      margin: auto
+      border: 1px solid #CCCCCC;
+      width: m90%;
+}
+td,th {
+      padding: 5xp;
+      border: 1px solid #CCCCCC;
+}
+td {
+      text-align: center;
+}
+.text {
+      text-align: left;
+}
+
+tr:nth-of-type(even) { background-color: #DFEDF8; }
+
 body { 
       background-color: #90C7E3; 
        color: #666666;
        font-family: Arial, Verdana, sans-serif;
-       background-repeat: no-repeat;
-	   background-image: linear-gradient(to bottom, #FFFFFF, #90C7E3);
+       margin: 0
 }
  header { 
       background-color: #002171; 
