@@ -1,0 +1,39 @@
+Requirements Document
+Indicate what you have done and what pages and line numbers do these requirements reside (for all of the questions, indicate yes if you completed or no if you did not complete it)
+
+•	Home page and at least 5 content pages (6 pages or more total)
+             Yes
+ 
+•	A single external CSS file controlling styles across the site (internal and embedded styles may also be used when appropriate)
+             Yes
+
+
+•	Consistent "look and feel" throughout the site (logo, color scheme, layout, navigation)
+            Yes as displayed in my Style.Css file
+
+•	Consistent navigation throughout the site
+            Yes
+
+
+•	Use at least three images in addition to a logo (images should have alternate text) Where are the images? What files are they located in and where are the lines of code?
+            The Images are on the Index page, cats, dogs, and fish.  I made the pics with AI.  They are around line 30 for each page.
+
+•	Include at least three external links.  Where are the external links? What files are they located in and where are the lines of code?
+            My external links are in the about page.  They are PetSmart, Petco, and Chewy.  They are on lines 71-83 on the about page.
+
+
+
+
+•	At least one HTML list (ul, ol, or dl) element. Where are the HTML list elements? What files are they located in and where are the lines of code?
+            I used the list element for giving my reference links on the about page. Lines 71-83.
+
+
+•	Use of Search Engine Optimization (SEO) principles. Where are the lines of code that implement SEO?
+            Yes.  On the Index page
+
+
+•	Mobile friendly and/or fluid layout for different screen sizes. What lines and what files?
+           Yes.  All my .png files and throughout my Css file.
+
+
+HTML and CSS passes validation test at W3Schools. You will need to include all of your screenshots of the HTML and CSS validations
